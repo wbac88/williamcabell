@@ -1,0 +1,37 @@
+body {
+
+  padding: 10px 30px;
+
+}
+
+#subtitle {
+
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.fa {
+
+  color:black;
+
+        }
+
+.fa:hover{
+
+  text-decoration: none;
+  color:#5d8aea;
+
+        }
+
+#socialIcons {
+
+padding: 20px 0 0 0;
+
+}
+
+#name {
+
+font-family: 'Yatra One', cursive;
+font-size: 55px;
+
+}
