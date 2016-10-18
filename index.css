@@ -1,0 +1,159 @@
+body {
+
+  padding: 10px 30px;
+
+}
+
+#subtitle {
+
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.fa {
+
+  color:black;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+
+        }
+
+.fa:hover{
+
+  text-decoration: none;
+  color:#5d8aea;
+
+        }
+
+.box-labels {
+
+  font-family: 'Yatra One', cursive;
+  text-align: center;
+  font-size:30px;
+  color:black;
+  background-color: white;
+  width: 200px;
+  display:none;
+  border-radius: 10px;
+}
+
+#socialIcons {
+
+padding: 50px 0 0 0;
+
+}
+
+#name {
+
+font-family: 'Yatra One', cursive;
+font-size: 55px;
+
+}
+
+.divider {
+
+  background-color: black;
+  width: 100%;
+  height:5px;
+  margin: 20px 0 40px 0;
+
+}
+
+.details {
+
+  display:none;
+text-align: center;
+}
+
+.interests {
+
+  background-color: #cccccc;
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+  border-radius:10px;
+  border: 3px solid black;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  -o-transition:.75s;
+  -ms-transition:.75s;
+  -moz-transition:.75s;
+  -webkit-transition:.75s;
+  transition:.75s;
+    padding: 20px;
+
+}
+
+#developer {
+
+  background-image: url('images/devblack.jpeg');
+
+}
+
+#developer:hover {
+
+  background-image: url('images/devcolor.jpeg')
+
+}
+
+#dance {
+
+    background-image: url('images/danceblack.jpg')
+
+}
+
+#dance:hover {
+
+    background-image: url('images/dancecolor.jpg')
+
+}
+
+#steam {
+
+  background-image: url('images/steamblack.jpeg')
+
+}
+
+#steam:hover {
+
+    background-image: url('images/steamcolor.jpeg')
+
+}
+#nature {
+
+    background-image: url('images/natureblack.jpg')
+
+}
+
+#nature:hover {
+
+    background-image: url('images/naturecolor.jpg')
+
+}
+
+#bonsai {
+
+    background-image: url('images/bonsaiblack.jpg')
+
+}
+
+#bonsai:hover {
+
+    background-image: url('images/bonsaicolor.jpg')
+
+}
+
+#travel {
+
+    background-image: url('images/travelblack.jpg')
+
+}
+
+#travel:hover {
+
+    background-image: url('images/travelcolor.jpg')
+
+}
